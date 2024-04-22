@@ -1,2 +1,2 @@
 # tv
-TV straeam
+TV stream
