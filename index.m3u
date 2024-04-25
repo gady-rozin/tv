@@ -17,6 +17,18 @@ https://live.pars-israel.com/iptv/stream.m3u8
 #EXTINF:-1 tvg-id="Channel13.il",ch 13 Channel13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
 
+#EXTINF:-1 tvg-id="CFTMDT.ca ",ch 57 TVA
+https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+
+#EXTINF:-1 tvg-id="RanTVIsrael.il ",ch 60 RanTV
+https://streaminglive.co.il:3730/live/raniamranilive.m3u8
+
+#EXTINF:-1 tvg-id="TF1.fr ",ch 61 TF1
+https://raw.githubusercontent.com/BG47510/sniftv/main/bouy/t1.m3u8
+
+#EXTINF:-1 tvg-id="BETClassicsPlutoTV.fr ",ch 61 Classics Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f92b5ba040eaa0007074d0a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 #EXTINF:-1 tvg-id="Kan11.il ",ch 11 Kan2
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 
